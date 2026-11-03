@@ -60,5 +60,3 @@ s.close()
 
 ## RESULT
   Thus, the Python program to implement the Sliding Window Protocol was successfully executed, and the transmission of frames with acknowledgements between the client and server was verified.
-
-Thus, the Python program to implement the Sliding Window Protocol was successfully executed, and the transmission of frames with acknowledgements between the client and server was verified.
